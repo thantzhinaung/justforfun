@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <head> <style>
+  <head> <style type="text/css">
     p {
-    color:red;}
+    background-color: red;}
     </style></head>
   <body>
     <p> Hello Everyone!<br/>
