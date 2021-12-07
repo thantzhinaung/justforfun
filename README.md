@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head> <style type="text/css">
+  <head>
+    <title>HELLO WORLD</title><style type="text/css">
     p {
     background-color: red;}
     </style></head>
